@@ -1,0 +1,17 @@
+fastapi==0.110.2
+uvicorn==0.29.0
+sqlalchemy==2.0.30
+requests==2.32.3
+typer==0.12.3
+rapidfuzz==3.9.3
+pypinyin==0.51.0
+opencc-python-reimplemented==0.1.7
+scikit-learn==1.5.1
+sentence-transformers==3.0.1
+pillow==10.4.0
+imagehash==4.3.1
+opencv-python==4.10.0.84
+apscheduler==3.10.4
+pandas==2.2.2
+openpyxl==3.1.5
+pytest==8.2.2
